@@ -1,0 +1,6 @@
+.widget .julekalender-wrapper { font-family: Lato, sans-serif;box-sizing: border-box;width: 100%; padding:0;margin:0;background:rgba(175,31,34,1);overflow:hidden;text-align:right;padding: 10px;border-radius:5px;}
+.widget .julekalender-wrapper h3, .widget .julekalender-wrapper p, julekalender-wrapper a { text-align:left;color:#fff;}
+.widget .julekalender-wrapper > a { color:#fff;font-size:inherit;text-align:center;display:block;position:relative;margin-top:10px;}
+.widget .julekalender-wrapper li { background-color: #f2f2f2;list-style:none;display:block;width:inherit;margin:0;padding:0;margin-bottom:1px;height:auto;}
+.widget .julekalender-wrapper li a { width:inherit;font-size: 11px;text-align:left;padding:10px 0 10px 70px;display:block;color:#333;text-decoration:none;-webkit-transition: all 0.2s ease;-moz-transition: all 0.2s ease;-o-transition: all 0.2s ease;-ms-transition: all 0.2s ease;transition: all 0.2s ease;}
+.widget .julekalender-wrapper li a:hover { background: rgba(175,31,34,1);border:0;color:#fff;padding:10px 15px 10px 0;text-align:right;  }
